@@ -5,4 +5,4 @@ A chess game program was written in C++ making use of the advantages of Object-O
 
 More info and detailed features (a rather thorough explanation) about all the classes and functions used can be found in the `Chess_Report.pdf` file!
 
-It is currently not possible to download and play with it but I will be working on a solution soon! 😴
+You can play it on Windows by just downloading the `.exe` file! 🤩
